@@ -1,0 +1,5 @@
+C:\Users\santh\OneDrive\Desktop\c#\New folder\BookShop\BookShop\wwwroot\css\bootstrap.min.css
+C:\Users\santh\OneDrive\Desktop\c#\New folder\BookShop\BookShop\wwwroot\favicon.ico
+wwwroot\css\bootstrap.min.css
+wwwroot\css\images\OIP.jpg
+wwwroot\favicon.ico

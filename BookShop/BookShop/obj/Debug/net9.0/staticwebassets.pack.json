@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\santh\\OneDrive\\Desktop\\c#\\New folder\\BookShop\\BookShop\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BookShop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BookShop.9wakomyior.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\santh\\OneDrive\\Desktop\\c#\\New folder\\BookShop\\BookShop\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\santh\\OneDrive\\Desktop\\c#\\New folder\\BookShop\\BookShop\\wwwroot\\css\\images\\OIP.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\OIP.jpg"
+    },
+    {
+      "Id": "C:\\Users\\santh\\OneDrive\\Desktop\\c#\\New folder\\BookShop\\BookShop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.BookShop.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.BookShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.BookShop.props",
+      "PackagePath": "build\\BookShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.BookShop.props",
+      "PackagePath": "buildMultiTargeting\\BookShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.BookShop.props",
+      "PackagePath": "buildTransitive\\BookShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
