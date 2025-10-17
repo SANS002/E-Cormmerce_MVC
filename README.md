@@ -1,8 +1,7 @@
 # BookShop (A basic e-comm system )📚🛒
 
-It is a source code of the youtube tutorial on [Build a Full E-commerce Application Using .NET Core 9, SQL Server, MVC | Complete Tutorial](https://youtu.be/_NzPJSofid8?si=jHuiACNd3dxzT1Go). Initially it was designed to explain how shopping cart 🛒 works in dot net core mvc. But now it has more features except payment gateway. A ⭐ in repository is highly appreciated, helps to promote my content.
-
-📢 Initially , this project was built with .net 7. But it is **Upgraded to .net 9.0.** now and I will try to keep it up to date.
+A basic e-commerce source project from a YouTube tutorial — Build a Full E-commerce Application Using .NET Core 9, SQL Server, MVC.
+This is a simple online book store built with .NET 9 and intended to be a learning/demo project
 
 ## Tech stack 🧑‍💻
 
@@ -14,7 +13,7 @@ It is a source code of the youtube tutorial on [Build a Full E-commerce Applicat
 
 ## Tools I have used and their alternative
 
-- Visual Studio 2022 (Alternatives : .NET SDK + VS Code or .NET SDK + JetBrains Rider).
+- Visual Studio 2022 (Alternatives : .NET SDK + VS Code or .NET SDK ).
 - Microsoft Sql Server Management Studio (Alternative : mssql extension for vscode / dbeaver).
 - Instead of manually installing `sql server`, you can also used `sql server` which is spun up in `docker`.
 
@@ -85,7 +84,7 @@ It is a source code of the youtube tutorial on [Build a Full E-commerce Applicat
 
 17.Add Genre
 
-![Add Genre](./screenshots/17%20add%20genre.jpg)
+![Add Genre](./Screenshots/Genre update.png)
 
 18.Update Genre
 
